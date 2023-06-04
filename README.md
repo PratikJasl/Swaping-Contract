@@ -15,6 +15,7 @@ Description 📌
     
 * A Single Swap is the exchange of tokens using a single Liquidity pool.
 * In a Muti-Hop Swap the exchange of tokens occurs using multiple Liquidity pools.
+* The contracts provided try to explain how swapping works in a DEX.
 
 Technology Stack📌
 * Solidity
