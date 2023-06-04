@@ -7,9 +7,9 @@ Description 📌
 * This project is called SWAPPING and it is intended to replicate and understand the 
   working of Swaps in a Decentralized Exchange.
 * It uses the uniswap library to create a swapping application.
-•	Swapping basically is used to swap one token for another, using liquidity pools.
-•	In a Swap we provide a certain amount of Token A and in return we get an equivalent amount of Token B.
-•	Swapping can be of two types
+*	Swapping basically is used to swap one token for another, using liquidity pools.
+* In a Swap we provide a certain amount of Token A and in return we get an equivalent amount of Token B.
+* Swapping can be of two types
     Single Swap
     Multi-Hop Swap
     
