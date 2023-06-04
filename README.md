@@ -10,7 +10,7 @@ Description 📌
 *	Swapping basically is used to swap one token for another, using liquidity pools.
 * In a Swap we provide a certain amount of Token A and in return we get an equivalent amount of Token B.
 * Swapping can be of two types
-    Single Swap
+    Single Swap and
     Multi-Hop Swap
     
 * A Single Swap is the exchange of tokens using a single Liquidity pool.
