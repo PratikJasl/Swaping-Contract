@@ -1,7 +1,7 @@
 SWAPPING CONTRACT
 
 Swapping Contract is used to swap one token for another in a Decentralized Exchange.
-The contract used ISWAPROUTER from the uniswap library to perform the swaps on Uniswap.
+The contract uses ISWAPROUTER from the uniswap library to perform the swaps on Uniswap.
 
 Description 📌
 * This project is called SWAPPING and it is intended to replicate and understand the 
